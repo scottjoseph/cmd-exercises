@@ -441,7 +441,7 @@ A: `rm -rf foo`
 
 ### Excercise 1
 
-Q: sing a single command-line command, make a directory foo, change into it, create a file bar with content “baz”, print out bar’s contents, and then cd back to your home directory.
+Q: Using a single command-line command, make a directory foo, change into it, create a file bar with content “baz”, print out bar’s contents, and then cd back to your home directory.
 
 A: `mkdir foo && cd foo && touch baz > bar && cd`
 
