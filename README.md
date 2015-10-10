@@ -24,7 +24,7 @@ A: `ctrl + alt + t`
 
 ## 1.2: Our first command
 
-### Excercise: 1
+### Exercise: 1
 
 Q: Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 
