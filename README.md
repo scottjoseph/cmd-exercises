@@ -1,6 +1,12 @@
-# Learn Enough Command Line to be Dangerous
+# Learn Enough Command Line to be Dangerous - Exercise Answers
 
-## Excercise Answers
+## Table of Contents
+- [1: Basics](#1-basics)
+  - [1.1: Running a terminal](#11-running-a-terminal)
+    - [Exercise: 2](#exercise-2)
+  - [1.2: Our first command](#12-out-first-command)
+    - [Exercise: 1](#exercise-1)
+    - [Exercise: 2](#exercise-21)
 
 ## 1: Basics
 
