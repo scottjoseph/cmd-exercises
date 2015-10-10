@@ -1,3 +1,8 @@
+#1.1
+---
+2. ctrl + alt + t
+
+---
 #1.2
 ---
 1. echo "hello, world" , echo hello, world
