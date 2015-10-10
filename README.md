@@ -1,5 +1,5 @@
 #1: test
-##1.1: Running a terminal
+###1.1: Running a terminal
 ---
 1. `ctrl + alt + t`
 
