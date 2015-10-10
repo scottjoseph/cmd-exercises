@@ -1,15 +1,17 @@
-#1: Basics
+# 1: Basics
+
+### 1.1: Running a terminal
+
+#### Exercise: 1.2
+
 ---
-###1.1: Running a terminal
----
-1.
-2.
 
 Q: By examining the menu items for your terminal program, figure out how to create a new tab. Extra credit: Learn the keyboard shortcut for creating a new tab.
 
 A: `ctrl + alt + t`
 
 ---
+
 ###1.2: Our first command
 ---
 1.
