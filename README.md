@@ -12,23 +12,24 @@ A: `ctrl + alt + t`
 
 ---
 
-###1.2: Our first command
----
-1.
+### 1.2: Our first command
+
+#### Excercise: 1
 
 Q: Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
 
 A: `echo "hello, world"` , `echo hello, world`
 
-2.
+#### Exercise 2
 
-Q:Type the command echo ’hello (with a mismatched single quote), and then get out of trouble using the technique from Box 4.
+Q: Type the command echo ’hello (with a mismatched single quote), and then get out of trouble using the technique from Box 4.
 
 A: `echo 'hello`, `ctrl-c`
 
 ---
-###1.3: Man pages
----
+
+### 1.3: Man pages
+
 1. 
 
 Q: According to the man page, what is the official description of echo on your system? 
