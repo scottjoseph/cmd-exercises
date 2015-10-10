@@ -1,10 +1,16 @@
+# Learn Enough Command Line to be Dangerous
+
+## Excercise Answers
+
 # 1: Basics
 
 ## 1.1: Running a terminal
 
 #### Exercise: 2
 
-Q: By examining the menu items for your terminal program, figure out how to create a new tab. Extra credit: Learn the keyboard shortcut for creating a new tab.
+Q: By examining the menu items for your terminal program, figure out how to create a new tab. 
+
+Extra credit: Learn the keyboard shortcut for creating a new tab.
 
 A: `ctrl + alt + t`
 
@@ -32,13 +38,13 @@ A: `echo 'hello`, `ctrl-c`
 
 Q: According to the man page, what is the official description of echo on your system? 
 
-A:display a line of text
+A: display a line of text
 
 ### Excercise 2
 
 Q: By reading the man page for echo, determine the command needed to print out “hello” without the trailing newline, and verify using your terminal that it works as expected.
 
-A:`echo -n [text]`
+A: `echo -n [text]`
 
 ---
 ## 1.4: Editing the line
@@ -53,7 +59,7 @@ A: `echo "fee"`, press `up-arrow`, replace "fee" with "fie", etc
 
 Q: Starting with the line in Listing 4, use any combination of Ctrl-A, Ctrl-E, arrow keys, or Option-click to change the occurrences of the short s to the archaic long s “ſ” in order to match the appearance of the original (Figure 10).
 
-A: use ctrl-A, ctrl-E, or arrow keys to navigate and edit
+A: use `ctrl-A`, `ctrl-E`, or arrow keys to navigate and edit
 
 ---
 ## 1.5: Cleaning up
@@ -75,21 +81,21 @@ A: press `ctrl + alt + t`, type `echo 'hello'`, type `exit` or `ctrl-d`
 
 ### Excercise 1
 
-Q:Write a command to print the string Use "man echo", including the quotes; i.e., take care not to print out Use man echo instead.
+Q: Write a command to print the string Use "man echo", including the quotes; i.e., take care not to print out Use man echo instead.
 
 A: type `echo 'Use "man echo"'`
 
 ### Excercise 2
 
-Q:     By running man sleep, figure out how to make the terminal “sleep” for 5 seconds, and execute the command to do so. After waiting the requisite 5 seconds, execute the command to sleep for 5000 seconds, realize that’s well over an hour, and then use the instructions from Box 4 to get out of trouble. 
+Q: By running man sleep, figure out how to make the terminal “sleep” for 5 seconds, and execute the command to do so. After waiting the requisite 5 seconds, execute the command to sleep for 5000 seconds, realize that’s well over an hour, and then use the instructions from Box 4 to get out of trouble. 
 
 A: type `sleep 5s` , type `sleep 5000s` , press `ctrl-c` or `Esc`
 
 ---
-#2: Manipulating files
+# 2: Manipulating files
 
 ## 2.1: Redirecting and appending
----
+
 ### Excercise 1
 
 Q: Using echo and >, make files called line_1.txt and line_2.txt containing the first and second lines of Sonnet 1, respectively. 
@@ -154,7 +160,7 @@ A: `cat foo.txt bar.txt > quux.txt`
 
 Q: How do rm nonexistent and rm -f nonexistent differ for a nonexistent file?
 
-A: rm nonexistant asks for confirmation, rm -f nonexistant does not ask for comfirmation
+A: `rm` nonexistant asks for confirmation, `rm -f` nonexistant does not ask for comfirmation
 
 ---
 ## 2.4: Summary
@@ -324,16 +330,16 @@ A: `history | grep`, 402
 
 Q: Use the result from the previous exercise to re-run the last occurrence of curl. 
 
-A:`!402`, `!401`
+A: `!402`, `!401`
 
 ### Excercise 5
 
 Q: What do the O and L options in Listing 8 mean?
 
-A: -O=remote-output=write output to a file named as the remote file, -L=location/follows redirects
+A: `-O` = remote-output = write output to a file named as the remote file, `-L` = location/follows redirects
 
 ---
-#4: Directories
+# 4: Directories
 
 ## 4.1: Structure
 
@@ -353,7 +359,7 @@ A: home dir = users, username = bill, deepest directory = sonnets
 
 Q: For a user with username bill, how do /Users/bill/sonnets and ~/sonnets differ (if at all)?
 
-A: ~/sonnets belongs to the superuser/root, Users/bill/sonnets belongs to a user named bill
+A: `~/sonnets` belongs to the superuser/root, `/Users/bill/sonnets` belongs to a user named bill
 
 ---
 ## 4.2: Making directories
@@ -362,7 +368,7 @@ A: ~/sonnets belongs to the superuser/root, Users/bill/sonnets belongs to a user
 
 Q: What is the option for making intermediate directories as required, so that you can create, e.g., ~/foo and ~/foo/bar with a single command?
 
-A: -p
+A: `-p`
 
 ### Excercise 2
 
@@ -410,7 +416,7 @@ A: `../nil`
 
 Q: Make a directory foo with a subdirectory bar, then rename the subdirectory to baz. 
 
-A:`mkdir ~/foo/bar`, `mv ~/foo/bar ~/foo/baz`
+A: `mkdir ~/foo/bar`, `mv ~/foo/bar ~/foo/baz`
 
 ### Excercise 2
 
