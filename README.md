@@ -1,39 +1,40 @@
-#1: test
+#1: Basics*
 ###1.1: Running a terminal
 ---
 1. `ctrl + alt + t`
 
 ---
-#1.2: Our first command
+###1.2: Our first command
 ---
 1. `echo "hello, world"` , `echo hello, world`
 2. `ctrl-c`
 
 ---
-#1.3: Man pages
+###1.3: Man pages
 ---
 1. display a line of text
 2. `echo -n`
 
 ---
-#1.4: Editing the line
+###1.4: Editing the line
 ---
 1. use up-arrow to repeat commands
 2. use ctrl-A, ctrl-E, or arrow keys to navigate and edit
 
 ---
-#1.5: Cleaning up
+###1.5: Cleaning up
 ---
 1. type `clear` , `ctrl-l`
 2. type `exit` , `ctrl-d`
 
 ---
-#1.6: Summary
+###1.6: Summary
 ---
 1. `echo 'Use "man echo"'`
 2. `sleep 5s` , `sleep 5000s` , `ctrl-l`
 
 ---
+#2:
 #2.1: Redirecting and appending
 ---
 1. `echo "From fairest creatures we desire increase," > line_1.txt` , `echo "That thereby beauty's rose might never die," > line_2.txt`
