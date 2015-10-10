@@ -5,6 +5,7 @@
 1.
 2.
 Q: By examining the menu items for your terminal program, figure out how to create a new tab. Extra credit: Learn the keyboard shortcut for creating a new tab.
+
 A: `ctrl + alt + t`
 
 ---
