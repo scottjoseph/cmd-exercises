@@ -5,14 +5,14 @@
 ---
 #1.2
 ---
-1. echo "hello, world" , echo hello, world
-2. ctrl-c
+1. `echo "hello, world"` , `echo hello, world`
+2. `ctrl-c`
 
 ---
 #1.3
 ---
 1. display a line of text
-2. -n
+2. `echo -n`
 
 ---
 #1.4
@@ -23,14 +23,14 @@
 ---
 #1.5
 ---
-1. type clear , ctrl-l
-2. type exit , ctrl-d
+1. type `clear` , `ctrl-l`
+2. type `exit` , `ctrl-d`
 
 ---
 #1.6
 ---
-1. echo 'Use "man echo"'
-2. sleep 5s , sleep 5000s , ctrl-l
+1. `echo 'Use "man echo"'`
+2. `sleep 5s` , `sleep 5000s` , `ctrl-l`
 
 ---
 #2.1
