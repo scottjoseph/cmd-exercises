@@ -2,7 +2,8 @@
 ---
 ###1.1: Running a terminal
 ---
-1. `ctrl + alt + t`
+1. By referring to Figure 5, identify the prompt, command, options, arguments, and cursor in each line of Figure 6.
+  - `ctrl + alt + t`
 
 ---
 ###1.2: Our first command
