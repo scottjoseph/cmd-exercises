@@ -2,14 +2,20 @@
 ---
 ###1.1: Running a terminal
 ---
-1. By referring to Figure 5, identify the prompt, command, options, arguments, and cursor in each line of Figure 6.
-  - `ctrl + alt + t`
+1.
+2.
+Q: By examining the menu items for your terminal program, figure out how to create a new tab. Extra credit: Learn the keyboard shortcut for creating a new tab.
+A: `ctrl + alt + t`
 
 ---
 ###1.2: Our first command
 ---
-1. `echo "hello, world"` , `echo hello, world`
-2. `ctrl-c`
+1.
+Q: Write a command that prints out the string “hello, world”. Extra credit: As in Listing 1, do it two different ways, both with and without using quotation marks.
+A: `echo "hello, world"` , `echo hello, world`
+2.
+Q:Type the command echo ’hello (with a mismatched single quote), and then get out of trouble using the technique from Box 4.
+A: `echo 'hello`, `ctrl-c`
 
 ---
 ###1.3: Man pages
