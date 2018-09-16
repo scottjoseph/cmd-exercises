@@ -7,7 +7,7 @@
   - [1.2: Our first command](#12-our-first-command)
     - [Exercise: 1](#exercise-1)
     - [Exercise: 2](#exercise-2-1)
-  - [1.3: Man pages] (#13-man-pages)
+  - [1.3: Man pages](#13-man-pages)
     - [Exercise: 1](#exercise-1-1)
     - [Exercise: 2](#exercise-2-2)
   - [1.4: Editing the line](#14-editing-the-line)
@@ -550,4 +550,4 @@ A: force removes all files on the system
 
 Q: How can the previous command be made even more dangerous? Hint: Refer to Box 11. (This command is so dangerous you shouldn’t even think it, much less type it.) 
 
-A: by adding "sudo" to the beginning, anybody can use the command
+A: by adding `sudo` to the beginning, anybody can use the command
