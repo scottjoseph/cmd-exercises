@@ -484,7 +484,7 @@ A: they don't differ, they both change the current directory to home directory
 
 Q: Change to text_directory, then change to second_directory using the “one directory up” double dot operator ... 
 
-A: `cd text_directory`, `cd ..`
+A: cd ~/text_files/ && cd ../secondary_directory
 
 ### Exercise 3
 
