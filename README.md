@@ -413,7 +413,7 @@ A: `history | wc`, 401
 
 Q: By piping the output of history to grep, determine the number for the last occurrence of curl. 
 
-A: `history | grep`, 402
+A: `history | grep curl`, 402
 
 ### Exercise 4
 
